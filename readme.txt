@@ -1,4 +1,11 @@
 
+создать новую ветку 
+
+git branch <название_ветки>
+#или
+git checkout -b <название_ветки>
+
+
 create a new repository on the command line
 
 echo "# Drf2" >> README.md
