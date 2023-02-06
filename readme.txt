@@ -2,6 +2,8 @@
 
 https://training.github.com/downloads/ru/github-git-cheat-sheet/   - шпаргалка 
 https://learngitbranching.js.org/?locale=ru_RU&demo=               - тренажер
+
+https://webhamster.ru/mytetrashare/index/mtb0/1088                 - GIT
 ------------------------------------------------------------------------------
 
 создать новую ветку 
